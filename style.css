@@ -16,7 +16,7 @@ body {
 
 .hei2 {
     display: flex;
-    position: absolute;
+    position: fixed;
     margin: auto;
     bottom: 0;
 }
