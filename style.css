@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    height: 6000px;
+    height: 10000px;
     background: linear-gradient(55deg, #05fded 0%, #93db1f 51%, #642ce8 85%);
 }
 
@@ -15,6 +15,7 @@ body {
 
 .hei2 {
     display: flex;
+    position: static;
     margin: auto;
-    bottom: 0;
+    bottom: 100%;
 }
