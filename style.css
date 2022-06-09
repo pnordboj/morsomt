@@ -20,4 +20,6 @@ body {
 #hei2 {
     height: 500px;
     bottom: 0;
+    top: 100%;
+    position: static;
 }
