@@ -7,11 +7,6 @@ body {
     background: linear-gradient(55deg, #05fded 0%, #93db1f 51%, #642ce8 85%);
 }
 
-.main {
-    display: flex;
-    flex-direction: column;
-}
-
 #hei1 {
     height: 14500px;
     top: 0;
