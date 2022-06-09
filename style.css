@@ -11,17 +11,19 @@ body {
 }
 
 #hei1 {
-    height: 14500px;
+    height: 49%;
 }
 
 #fun {
-    top: 50;
-    bottom: 50;
+    height: 1%;
     font-size: large;
     font-weight: bold;
 }
 
+#space {
+    height: 49%;
+}
+
 #hei2 {
-    
-    height: 500px;
+    height: 1%;
 }
