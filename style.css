@@ -7,7 +7,7 @@ body {
     background: linear-gradient(55deg, #05fded 0%, #93db1f 51%, #642ce8 85%);
 }
 
-.hei1 {
+#hei1 {
     display: flex;
     height: 9500px;
     top: 0;
@@ -15,7 +15,7 @@ body {
     right: 0;
 }
 
-.hei2 {
+#hei2 {
     display: flex;
     position: static;
     height: 500px;
