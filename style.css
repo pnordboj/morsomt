@@ -9,12 +9,14 @@ body {
 
 .hei1 {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    top: 0;
+    margin: auto;
+    position: absolute;
 }
 
 .hei2 {
-    left: 0;
-    right: 0;
+    display: flex;
+    position: absolute;
+    margin: auto;
     bottom: 0;
 }
