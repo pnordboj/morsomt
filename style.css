@@ -17,5 +17,5 @@ body {
     display: flex;
     position: static;
     margin: auto;
-    bottom: 100%;
+    bottom: 0%;
 }
