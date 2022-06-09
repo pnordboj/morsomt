@@ -11,12 +11,10 @@ body {
     display: flex;
     top: 0;
     margin: auto;
-    position: absolute;
 }
 
 .hei2 {
     display: flex;
-    position: fixed;
     margin: auto;
     bottom: 0;
 }
