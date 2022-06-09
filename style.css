@@ -15,7 +15,10 @@ body {
 }
 
 #fun {
-    
+    top: 50;
+    bottom: 50;
+    font-size: large;
+    font-weight: bold;
 }
 
 #hei2 {
